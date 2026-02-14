@@ -1,0 +1,13 @@
+# Build output
+build/
+dist/
+
+# NetBeans private config (berisi path lokal mesin masing-masing)
+nbproject/private/
+
+# macOS
+.DS_Store
+
+# Library JAR (tidak di-commit, user download sendiri sesuai README)
+lib/
+*.jar
