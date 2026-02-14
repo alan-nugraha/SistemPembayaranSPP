@@ -25,11 +25,10 @@ public class FormLogin extends javax.swing.JFrame {
         setTitle("Login - Sistem Pembayaran SPP SMP Jakenan");
         setResizable(false);
 
-        jPanelMain.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(100, 100, 200)));
-        jPanelMain.setBackground(java.awt.Color.WHITE);
+        jPanelMain.setBackground(new java.awt.Color(255, 255, 255));
+        jPanelMain.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(0, 0, 0)));
 
         jLabelTitle.setFont(new java.awt.Font("Arial", 1, 13)); // NOI18N
-        jLabelTitle.setForeground(new java.awt.Color(50, 50, 150));
         jLabelTitle.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabelTitle.setText("LOGIN SISTEM SPP SMP JAKENAN");
 

@@ -54,7 +54,6 @@ public class FormUtama extends javax.swing.JFrame {
 
         jLabelTitle.setBackground(java.awt.Color.white);
         jLabelTitle.setFont(new java.awt.Font("Arial", 1, 15)); // NOI18N
-        jLabelTitle.setForeground(new java.awt.Color(30, 30, 120));
         jLabelTitle.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabelTitle.setText("SISTEM PEMBAYARAN SPP SMP JAKENAN");
 
