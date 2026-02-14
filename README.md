@@ -61,7 +61,7 @@ Pastikan perangkat lunak berikut sudah terinstall:
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/<username>/SistemPembayaranSPP.git
+git clone https://github.com/yaelahlan/SistemPembayaranSPP.git
 ```
 
 ### 2. Setup Database
